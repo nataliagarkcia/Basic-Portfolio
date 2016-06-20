@@ -1,0 +1,183 @@
+	
+	header{
+			background-color:#ffffff;
+			padding:30px;
+			border-bottom:5px solid #cccccc;
+			position:absolute, 0 0 0 0;
+			margin:0;
+
+			
+	}
+
+	
+	#portfolio,
+	#about,
+	#contact
+	{
+	       color:#cccccc;
+	       float:right;
+	       padding-right:0px;
+	       margin-right:40px;
+	       font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+		position:relative;
+		left:-165px;
+	}
+
+	
+
+	#my-name{
+		background-color:#4aaaa5;
+		padding:30px 20px 30px 20px;
+		margin-left:100px;
+		color:#ffffff;
+		font-size:25px;
+		font-family: "Georgia", Times, Times New Roman, serif;
+
+
+	}
+
+	body{
+		background-color:#f0f0f0;
+	}
+
+	#section1{
+		width:650px;
+		height:auto;
+		background-color:#ffffff;
+		margin:50px 20px 50px 130px;
+		float:left;
+
+		
+	}
+
+	.titulo{
+		color:#4aaaa5;
+		padding:1px 15px 30px 15px;
+		font-size:30px;
+		border-bottom:3px solid #dddddd;
+		margin-left:25px;
+		margin-right:25px;
+	}
+
+	#bio-pic{
+		width:190px;
+		margin-left:20px;
+		float:left;
+		margin-left:25px;
+		margin-right:25px;
+	}
+
+	.bio-text{
+		margin-right:25px;
+		margin-left:25px;
+		color:#777777;
+		font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+		line-height: 2.0;
+	}
+
+	#section2{
+		width:270px;
+		height:auto;
+		background-color:#ffffff;
+		margin:50px;
+		float:left;
+	}
+
+	#info{
+		color:#4aaaa5;
+		padding:1px 15px 20px 15px;
+		font-size:22px;
+		border-bottom:2px solid #dddddd;
+		margin-left:25px;
+		margin-right:25px;
+	}
+
+	.logo{
+		height:65px;
+		width:65px;
+		margin:3px;
+		position:relative;
+		left:25px;
+		top:-10px;
+	}
+
+	div{
+
+		float:middle;
+		margin-bottom:50px;
+		}
+
+
+	form{
+ 		width: 400px;
+   		 padding: 15px 0  0 35px;
+		}	
+	
+	label{
+		display: inline-block;
+    	width: 200px;
+    	text-align:left;
+    	font-size:16px;
+    	color:#777777;
+    	font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+	}
+
+	input, textarea {
+    	font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    	font-size:12px;
+    	padding: 7 3 7 10;
+    	width: 590px;
+   		
+    	
+    	border: 1px solid #d4d4d4;
+	}
+
+	button {
+		color:#ffffff;
+		background-color:#4aaaa5;
+		border:none;
+		padding:10 30 10 30; 
+		font-family:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+    	font-size:16px;
+
+}
+
+	a:link{
+		text-decoration:none;
+	}
+
+	#illustration{
+		padding:25px;
+		width:285px;
+		height:auto;
+		align:left;
+	}
+
+	#octopus{
+		padding:25px;
+		width:285px;
+		height:auto;
+		align:left;
+	}
+
+	#owl{
+		padding:25px;
+		width:285px;
+		height:auto;
+		align:left;
+	}
+	footer{
+		background-color:#666666;
+		font:'Arial', 'Helvetica Neue', Helvetica, sans-serif;
+		color:#c5c5bc;
+		font-size:12px;
+		text-align:center;
+		padding:35px;
+		border-top:10px solid #4aaaa5;
+		margin-top:400px;
+		position:absolute;
+		bottom:-200px;
+		right:0;
+		left:0;
+	
+	}	
